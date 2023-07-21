@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noraV93
+- 👋 Hi, I’m @noraV93, college student
 - 👀 I’m interested in Coding, web3, smart contract
 - 🌱 I’m currently learning Rust, Javascript
 - 💞️ I’m looking to collaborate on Dapp development
